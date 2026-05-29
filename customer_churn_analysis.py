@@ -1,24 +1,10 @@
-# Telecom Customer Churn Prediction
+import pandas as pd
+import numpy as np
 
-## Project Overview
-This project predicts customer churn using machine learning techniques.
+print("Telecom Customer Churn Prediction Project")
 
-## Skills Demonstrated
-- Data Cleaning
-- Exploratory Data Analysis
-- Feature Engineering
-- Machine Learning
-- Model Evaluation
-
-## Tools
-- Python
-- Pandas
-- NumPy
-- Scikit-Learn
-- Matplotlib
-
-## Business Goal
-Identify customers likely to leave and help reduce churn through data-driven decisions.
-
-## Author
-Abel Demissew Kebede
+# Future steps:
+# 1. Load customer data
+# 2. Clean the data
+# 3. Train machine learning model
+# 4. Evaluate model performance
